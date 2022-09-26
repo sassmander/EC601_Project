@@ -18,8 +18,11 @@ In general sense, a NLP model can score using various criteria. Some features th
 
 #### References
 [1] Kaggle: Feedback Prize - English Language Learning (https://www.kaggle.com/competitions/feedback-prize-english-language-learning)
+
 [2] Ludwig et al. Automated Essay Scoring Using Transformer Models. https://arxiv.org/pdf/2110.06874.pdf
+
 [3] Ghanta. Automated Essay Evaluation Using Natural Language Processing and Machine Learning and Machine Learning. https://csuepress.columbusstate.edu/cgi/viewcontent.cgi?article=1330&context=theses_dissertations
+
 [4] Ormerod et al. Automated essay scoring using efficient transformer-based language models. https://arxiv.org/pdf/2102.13136.pdf
 
 
