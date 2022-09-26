@@ -12,6 +12,11 @@ The evaluation metrics vary from cohesion, syntax, vocabulary, phraseology, gram
 Automated feedback using natural language processing has slowly moved forward, since its rough conception in the 1960s by the Project Essay Grade (PEG) system [2]. Having a robust automated platform is especially of interest in the educational sector and with rise of newer natural language processing platforms, such as RNN (Recurrent Neural Networks), LSTM (Long Short-Term Memory), and most recently the Tranformer models, having such a platform at a manageable computational cost is a possbility. 
 In general sense, a NLP model can score using various criteria. Some features that a model can use might include Lexical Diversity, given by instances of unique words within the text, or Word Frequency, given by how common the words are in general English vocabulary, or Syntactical Complexity, given by how complex sentences may be structured, or Syntatic Similarity, given by how similar level structures are within text, or Lexical Overlap, given by how words are reused within text to aid in comprehension, or Semantic Overlap, given by semantics overlap within text [3]. Other criteria can be also incorporated, another 
 
+` Table of List of NLP Techniques `
+
+<img width="826" alt="Screen Shot 2022-09-26 at 1 48 08 AM" src="https://user-images.githubusercontent.com/91296660/192202513-c12529fd-21f3-4b91-840b-5c97960286ee.png">
+<img width="816" alt="Screen Shot 2022-09-26 at 1 48 19 AM" src="https://user-images.githubusercontent.com/91296660/192202522-c2b09eb7-46e7-4039-add5-3cf49a8bf04f.png">
+
 #### Open Source Research 
 
 #### Conclusion
