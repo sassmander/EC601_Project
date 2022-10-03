@@ -10,6 +10,7 @@ The evaluation metrics vary from cohesion, syntax, vocabulary, phraseology, gram
 
 #### Literature Review
 Automated feedback using natural language processing has slowly moved forward, since its rough conception in the 1960s by the Project Essay Grade (PEG) system [2]. Having a robust automated platform is especially of interest in the educational sector and with rise of newer natural language processing platforms, such as RNN (Recurrent Neural Networks), LSTM (Long Short-Term Memory), and most recently the Tranformer models, having such a platform at a manageable computational cost is a possbility. 
+
 In general sense, a NLP model can score using various criteria. Some features that a model can use might include Lexical Diversity, given by instances of unique words within the text, or Word Frequency, given by how common the words are in general English vocabulary, or Syntactical Complexity, given by how complex sentences may be structured, or Syntatic Similarity, given by how similar level structures are within text, or Lexical Overlap, given by how words are reused within text to aid in comprehension, or Semantic Overlap, given by semantics overlap within text [3]. Other criteria can be also incorporated, shown in an incomplete table below. Criteria can be refined for the needs of the platform as well, depending on the context of the platform. 
 
 ` Table of List of NLP Techniques [5]`
@@ -19,8 +20,11 @@ In general sense, a NLP model can score using various criteria. Some features th
 
 #### Open Source Content 
 Some open-source content has been found on Kaggle, where users post various help codes for other users. 
+
 Helpful for starting out with Transformers: https://www.kaggle.com/code/shreydan/using-transformers-for-the-first-time-pytorch
+
 Various graphs for data exploration: https://www.kaggle.com/code/riteshsinha/feedback-prize-data-exploration
+
 Ways to optimize training process: https://www.kaggle.com/code/vad13irt/optimization-approaches-for-transformers
 
 
